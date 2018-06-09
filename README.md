@@ -1,1 +1,3 @@
 # IHM_Graphical-Editor
+
+A graphical editor, displaying buttons and an area for creating geometrical shapes. This editor allows the user to select/move, clone, delete or create a specific shape on the pane (ellipse, rectangle or line). By clicking on the Select/Move button, the user can either select a shape and drag it somewhere else on the pane, or delete/clone it. To delete or clone, simply click on the shape you wish to delete (respectively clone), and click on the delete (respectively clone) button. The user can also change the color of a specific shape, by cliking on it, and selecting a new color thanks to the color picker.
